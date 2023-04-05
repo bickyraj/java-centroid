@@ -1,0 +1,3 @@
+out
+src/mnist_train.csv
+src/mnist_test.csv
