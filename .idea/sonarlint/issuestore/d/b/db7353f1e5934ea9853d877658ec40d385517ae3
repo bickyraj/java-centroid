@@ -1,0 +1,22 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›δ»―ώÿÿÿÿ8·«τυτ0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­“»Ηÿÿÿÿÿ8΅δυτ0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•²³€ϊÿÿÿÿ8΅δυτ0
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΉΪΨ8΅δυτ0
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ςδο8Άδυτ0
+m	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ίΰΖ8£δυτ0
+w
+java:S3008"URename this field "file1_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΛίΧούÿÿÿÿ8Δξφτ0
+r
+java:S3008"URename this field "file2_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’›Ώ¤8Υλ‹φτ0
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ζ΅ΨΟϊÿÿÿÿ8Ξξφτ0
+]	java:S125"<This block of commented-out lines of code should be removed.(΅σψ„ÿÿÿÿÿ8Ε‰δυτ0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ΊΨ¥όÿÿÿÿ8…Αευτ0
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(«ξΒ¥8±µξυτ0
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ªΣΌαώÿÿÿÿ8¶Ύυυτ0
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(ο‰³‰8δ‚φτ0
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(―§Λόÿÿÿÿÿ8κυφτ0
+O
+java:S1128	"-Remove this unused import 'java.util.Arrays'.(ξ–Ιόÿÿÿÿ8†μ‹φτ0
